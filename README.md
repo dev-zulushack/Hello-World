@@ -2,4 +2,4 @@
 Hello World Program
 
 Hi!
-This is Jhankhana Koshti..
+This is me trying to learn OOP..
